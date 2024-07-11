@@ -97,5 +97,6 @@ title: Home
   </div>
 </div>
 
+
 ## Blog
 Check out my [blog posts](blogs.md) for more insights and articles.
